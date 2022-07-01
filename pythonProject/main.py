@@ -1,6 +1,6 @@
 a="ana maria joana" #criando uma variável.
 """
-Bloco de notas
+Bloco de notas legal
 """
 print(a) #exibe
 
